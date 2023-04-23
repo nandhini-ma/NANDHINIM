@@ -1,12 +1,13 @@
 MEASURING THE PULSE OF PROSPERITY:AN INDEX OF ECONOMIC FREEDOM ANALYSIS
 TEAM LEAD URL
-NANDHINI.M
+Team leader:NANDHINI.M
 https://prod-apsoutheast-a.online.tableau.com/#/site/nandhinim1hy/home
-Nishanthi.S
+Team members Url:
+Team member:Nishanthi.S
 https://prod-apsoutheast-a.online.tableau.com/#/site/nishanthis1yh/home
-Priya.M
+team member :Priya.M
 https://prod-apsoutheast-a.online.tableau.com/#/site/priyam1yh/home
-Priyadharshni.I
+Team member:Priyadharshni.I
 https://prod-apsoutheast-a.online.tableau.com/#/site/priyadharshinil1yh/home
 Project Url:
 TEAM LEAD
